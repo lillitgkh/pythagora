@@ -220,3 +220,4 @@ This is an alpha version of Pythagora. To get an update about the beta release o
 
 <br><br>
 
+
